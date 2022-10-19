@@ -1,0 +1,8 @@
+messages:
+  noPermission: "&a&lBUILD &8&l➟ &cNo Permission"
+  toggled: "&a&lBUILD &8&l➟ &7Build restrictions {STATUS}"
+  enabled: "&a&lENABLED"
+  disabled: "&c&lDISABLED"
+  notAllowed: "&cBuild Mode Disabled"
+  setDefault: "&a&lBUILD &8&l➟ &7Set default to {DEFAULT_STATUS}"
+data: {}

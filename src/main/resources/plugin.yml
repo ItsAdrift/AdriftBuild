@@ -1,0 +1,6 @@
+name: AdriftBuild
+version: '${project.version}'
+main: me.itsadrift.adriftbuild.AdriftBuild
+#api-version: 1.19
+commands:
+  build:
